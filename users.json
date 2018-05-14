@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5af9da4559d5800bc6673be6"},"name":"userA","authorization":"123456789","deviceToken":"123456789","fingerPrint":"123456789","__v":0}
+{"_id":{"$oid":"5af9db8ca0c74b0f34e71933"},"name":"userB","authorization":"987654321","deviceToken":"987654321","fingerPrint":"987654321","__v":0}
